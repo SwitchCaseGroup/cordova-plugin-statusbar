@@ -24,7 +24,7 @@ jobs:
       run: npm install -g cordova@10.0.0
 
     - name: Install cordova paramedic
-      run: npm install -g SwitchCaseGroup/cordova-paramedic#996951d
+      run: npm install -g SwitchCaseGroup/cordova-paramedic#ec0a7e0
 
     - name: Install ios-deploy
       run: npm install -g ios-deploy@1.11.4
@@ -96,7 +96,7 @@ jobs:
       run: npm install -g cordova@10.0.0
 
     - name: Install cordova paramedic
-      run: npm install -g SwitchCaseGroup/cordova-paramedic#996951d
+      run: npm install -g SwitchCaseGroup/cordova-paramedic#ec0a7e0
 
     - name: npm install
       run: |
